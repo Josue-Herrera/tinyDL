@@ -10,7 +10,7 @@ LGTM Has to be set up manually after template is created:
 
 ## About tinyDL
 
-
+A Tiny C++ Deep Learing Framework
 
 ## More Details
 
